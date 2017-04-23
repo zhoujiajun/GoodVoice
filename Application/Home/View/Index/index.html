@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Verify</title>
+    <script language="JavaScript" src="__PUBLIC__/js/jquery-2.1.3.min.js"></script>
+    <script language="JavaScript">
+        function changeVerify(){
+            var v=document.getElementById("yzm");
+            v.src="__URL__/verify";
+        }
+        function changeVerify1(){
+            var v1=document.getElementById("yzm1");
+            v1.src="__URL__/verify1";
+        }
+        function changeVerify2(){
+            var v2=document.getElementById("yzm2");
+            v2.src="__URL__/verify2";
+        }
+    </script>
+</head>
+<body>
+<div >
+    <h1>验证码</h1>
+<form action="__URL__/check_verify" method="get">
+    验证码：
+    <img src="__URL__/verify" onclick="changeVerify()" id="yzm">
+    <input type="text" name="core">
+    <input type="submit">
+</form>
+</div>
+<div >
+    <h1>第一个验证码</h1>
+    <form action="__URL__/check_verify/id/1" method="get">
+        验证码：
+        <img src="__URL__/verify1" onclick="changeVerify1()" id="yzm1">
+        <input type="text" id="ve1" name="core">
+        <input type="submit">
+    </form>
+</div>
+<div >
+    <h1>第二个验证码</h1>
+    <form action="__URL__/check_verify/id/2" method="get">
+        验证码：
+        <img src="__URL__/verify2" onclick="changeVerify2()" id="yzm2">
+        <input type="text" id="ve2" name="core">
+        <input type="submit">
+    </form>
+</div>
+</body>
+</html>
