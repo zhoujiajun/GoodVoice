@@ -1,1 +1,0 @@
-a:8:{i:0;s:3:"tag";i:1;s:6:"header";i:2;s:6:"course";i:3;s:7:"teacher";i:4;s:8:"buyclass";i:5;s:8:"personal";i:6;s:8:"exercise";s:5:"_type";a:7:{s:3:"tag";s:7:"int(11)";s:6:"header";s:11:"varchar(20)";s:6:"course";s:11:"varchar(20)";s:7:"teacher";s:11:"varchar(20)";s:8:"buyclass";s:11:"varchar(20)";s:8:"personal";s:11:"varchar(20)";s:8:"exercise";s:11:"varchar(20)";}}

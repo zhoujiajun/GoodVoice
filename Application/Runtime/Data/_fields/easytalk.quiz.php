@@ -1,1 +1,0 @@
-a:8:{i:0;s:4:"e_id";i:1;s:4:"dati";i:2;s:6:"xiaoti";i:3;s:5:"title";i:4;s:4:"ABCD";i:5;s:6:"answer";i:6;s:5:"point";s:5:"_type";a:7:{s:4:"e_id";s:7:"int(11)";s:4:"dati";s:7:"int(11)";s:6:"xiaoti";s:7:"int(11)";s:5:"title";s:4:"text";s:4:"ABCD";s:4:"text";s:6:"answer";s:11:"varchar(10)";s:5:"point";s:7:"int(11)";}}

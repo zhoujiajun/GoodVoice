@@ -1,6 +1,0 @@
-https://connect.qq.com/manage.html#/
-
-http://127.0.0.1:16823/proxy_on.pac
-http://127.0.0.1:16823/proxy_on.pac?1478607395770557800
-
-客服、文员、美工、普工、其他

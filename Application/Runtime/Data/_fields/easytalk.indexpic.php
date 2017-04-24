@@ -1,1 +1,0 @@
-a:3:{i:0;s:3:"num";i:1;s:3:"pic";s:5:"_type";a:2:{s:3:"num";s:7:"int(11)";s:3:"pic";s:4:"text";}}
