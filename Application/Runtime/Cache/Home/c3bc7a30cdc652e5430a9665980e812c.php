@@ -1,1 +1,0 @@
-<?php if (!defined('THINK_PATH')) exit();?>尹嘉敏是女神

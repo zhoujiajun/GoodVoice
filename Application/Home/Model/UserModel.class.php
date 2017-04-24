@@ -1,93 +1,103 @@
 <?php 
 namespace Home\Model;
 use Think\Model;
-/**
-* 
-*/
+
 class UserModel extends Model
 {
-	//查询所有我关注的人
-	public function getMyFocus($account){
-		$where['follow']=$account;
-		$focusedLists = M('focus')->where($where)->getField('fans',true);
-		// for ($i=0; $i < count($focusedLists); $i++) { 
-		// 	$lists[$i]=$focusedLists[$i]['fans'];
-		// }
-		return $focusedLists;
+	public function checkLogin($username,$password)
+	{
+		$where['username']=$username;
+    	$where['password']=$password;
+    	$result=M('user')->where($where)->select();
+        return $result;
 	}
 
-	//查看所有关注我的人
-	public function getFocusMe($account){
-		$where['fans']=$account;
-		$focusedLists = M('focus')->where($where)->getField('follow',true);
-		// for ($i=0; $i < count($focusedLists); $i++) { 
-		// 	$lists[$i]=$focusedLists[$i]['follow'];
-		// }
-		return $focusedLists;
-	}
-
-	//添加关注
-	public function addFocus($data){
-		$result = M('focus')->add($data);
-		return $result;
-	}
-
-	//取消关注
-	public function deleteFocus($data){
-		$result = M('focus')->where($data)->delete();
-		return $result;
-	}
-
-	//检查是否关注
-	public function checkFocus($data){
-		$result = M('focus')->where($data)->count();
-		return $result;
-	}
-
-	//忘记密码验证
-	public function checkForgetPsw($data){
-		$check = M('user')->where($data)->count();
-		return $check;
-	}
-
-	//查看我的文章收藏
-	public function seeMyArticle($account){				
-		$where['user']=$account;
-		/*$where[0]="a.article_id=l.article_id";
-		$source = M()->table(array("article"=>"a","likearticle"=>"l"))->where($where)->select();*/
-		$source = M()->table(array("article"=>"a","likearticle"=>"l"))->where(array('a.article_id=l.article_id','l.user='.$account))->select();
-		return $source;
-	}
-
-	//查询是否互粉
-	public function ifLike($my,$his){
-		if ($my==$his) {
-			/*查看自己*/
-			return 1;
+	public function do_basic($email,$qq){
+		$where['username']=$_SESSION['username'];
+		$update['email']=$email;
+		$update['QQ']=$qq;
+		$result=M('user')->where($where)->save($update);
+		if ($result) {
+			return true;
 		}else{
-			$where['follow']=$my;
-			$where['fans']=$his;
-			$result = M('focus')->where($where)->select();
-			if (count($result)==1) {
-				/*已关注*/
-				return 0;
-			}else{
-				return 1;
-			}
+			return false;
 		}
 	}
 
-	//计数：粉丝数
-	public function countFans($account){
-		$where['fans']=$account;
-		return M('focus')->where($where)->count();
+	public function do_safe($username,$password){
+		$where['username']=$_SESSION['username'];
+		$update['username']=$username;
+		$update['password']=$password;
+		$result=M('user')->where($where)->save($update);
+		if ($result) {
+			return true;
+		}else{
+			return false;
+		}
 	}
 
-	//计数：关注数
-	public function countFollow($account){
-		$where['follow']=$account;
-		return M('focus')->where($where)->count();
+	public function do_psw($username,$newpsw){
+		$where['username']=$username;
+		$update['password']=$newpsw;
+		$result=M('user')->where($where)->save($update);
+		if ($result) {
+			return true;
+		}else{
+			return false;
+		}
+	}
+
+	public function do_register($data){
+		return D('user')->add($data);
+	}
+
+	public function do_nickname($nickname){
+		$where['username']=$_SESSION['username'];
+		$update['nickname']=$nickname;
+		$result=M('user')->where($where)->save($update);
+		if ($result) {
+			return true;
+		}else{
+			return false;
+		}
+	}
+
+	public function getPerson($user_id){
+		$where['id']=$user_id;
+		$data = M('user')->where($where)->select();
+		return $data;
+	}
+
+	public function getMyCourses($index){
+		$uid=$_SESSION['user_id'];
+		$data=M()->table(array('course'=>'c','takes'=>'t','user'=>'u'))->where(array('c.c_id=t.c_id','t.user_id=u.id','t.user_id='.$uid))->limit($index,4)->select();
+		return $data;
+	}
+
+	public function getCoursesNum(){
+		$uid=$_SESSION['user_id'];
+		$data=M()->table(array('course'=>'c','takes'=>'t','user'=>'u'))->where(array('c.c_id=t.c_id','t.user_id=u.id','t.user_id='.$uid))->count();
+		return $data;
+	}
+
+	public function getPassword(){
+		$where['username']=$_SESSION['username'];
+		$data = M('user')->field('password')->where($where)->select();
+		return $data[0]['password'];
+	}
+
+	public function checkForgetPsw($data){
+		$data = M('user')->where($data)->count();
+		return $data;
+	}
+
+	public function doAddAdvice($content,$username){
+		$data['content']=$content;
+		$data['username']=$username;
+		$data['time']=date('Y-m-d G:i:s');
+		$result = M('advice')->add($data);
+		return $result;
 	}
 }
 
-?>
+?> 

@@ -1,9 +1,0 @@
-[ 2016-11-11T22:29:47+08:00 ] ::1 /jobBook/admin.php/Home/Index/check
-ERR: 非法操作:check
-
-[ 2016-11-11T22:53:58+08:00 ] ::1 /jobBook/admin.php/question/allQuestions
-ERR: 非法操作:allQuestions
-
-[ 2016-11-11T22:54:07+08:00 ] ::1 /jobBook/admin.php/question/allQuestions
-ERR: 非法操作:allQuestions
-

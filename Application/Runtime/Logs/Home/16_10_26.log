@@ -1,8 +1,0 @@
-[ 2016-10-26T01:00:56+08:00 ] ::1 /jobBook/Home/person/showMyFavour/account/18826103004
-ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[0] ) LIMIT 0,10' at line 1
- [ SQL语句 ] : SELECT f.job_id,`name`,`companyname`,`location`,`time`,`salary` FROM `jobinfo` WHERE (  job_id=$listArray[0] ) LIMIT 0,10  
-
-[ 2016-10-26T01:01:32+08:00 ] ::1 /jobBook/Home/person/showMyFavour/account/18826103004
-ERR: 1054:Unknown column 'f.job_id' in 'field list'
- [ SQL语句 ] : SELECT f.job_id,`name`,`companyname`,`location`,`time`,`salary` FROM `jobinfo` WHERE `job_id` = 3 LIMIT 0,10  
-

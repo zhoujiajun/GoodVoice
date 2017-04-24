@@ -1,1 +1,0 @@
-a:8:{i:0;s:4:"q_id";i:1;s:6:"author";i:2;s:5:"title";i:3;s:5:"brief";i:4;s:4:"date";i:5;s:10:"commentNum";s:3:"_pk";s:4:"q_id";s:5:"_type";a:6:{s:4:"q_id";s:7:"int(11)";s:6:"author";s:11:"varchar(15)";s:5:"title";s:4:"text";s:5:"brief";s:4:"text";s:4:"date";s:4:"date";s:10:"commentNum";s:7:"int(11)";}}
