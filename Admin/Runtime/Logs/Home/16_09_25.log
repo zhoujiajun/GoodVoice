@@ -1,0 +1,1092 @@
+[ 2016-09-25T00:33:13+08:00 ] ::1 /jobBook/admin.php/Home/Job/css/style-responsive.css
+ERR: 非法操作:css
+
+[ 2016-09-25T00:33:13+08:00 ] ::1 /jobBook/admin.php/Home/Job/css/style.css
+ERR: 非法操作:css
+
+[ 2016-09-25T00:33:13+08:00 ] ::1 /jobBook/admin.php/Home/Job/js/jquery-1.10.2.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T00:33:13+08:00 ] ::1 /jobBook/admin.php/Home/Job/js/scripts.js
+ERR: 非法操作:js
+
+[ 2016-09-25T00:33:13+08:00 ] ::1 /jobBook/admin.php/Home/Job/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T00:33:13+08:00 ] ::1 /jobBook/admin.php/Home/Job/js/jquery.nicescroll.js
+ERR: 非法操作:js
+
+[ 2016-09-25T00:33:13+08:00 ] ::1 /jobBook/admin.php/Home/Job/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T00:33:13+08:00 ] ::1 /jobBook/admin.php/Home/Job/js/jquery-ui-1.9.2.custom.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T00:33:13+08:00 ] ::1 /jobBook/admin.php/Home/Job/js/modernizr.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T00:33:52+08:00 ] ::1 /jobBook/admin.php/Home/Job/js/jquery-1.10.2.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T00:33:52+08:00 ] ::1 /jobBook/admin.php/Home/Job/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T00:33:52+08:00 ] ::1 /jobBook/admin.php/Home/Job/js/modernizr.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T00:33:52+08:00 ] ::1 /jobBook/admin.php/Home/Job/js/scripts.js
+ERR: 非法操作:js
+
+[ 2016-09-25T00:33:52+08:00 ] ::1 /jobBook/admin.php/Home/Job/js/jquery.nicescroll.js
+ERR: 非法操作:js
+
+[ 2016-09-25T00:33:52+08:00 ] ::1 /jobBook/admin.php/Home/Job/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T00:33:52+08:00 ] ::1 /jobBook/admin.php/Home/Job/js/jquery-ui-1.9.2.custom.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:21:30+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/bootstrap-fileupload.min.css
+ERR: 非法操作:css
+
+[ 2016-09-25T10:21:30+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/modernizr.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:21:30+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.css
+ERR: 非法操作:js
+
+[ 2016-09-25T10:21:30+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery.nicescroll.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:21:30+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/style-responsive.css
+ERR: 非法操作:css
+
+[ 2016-09-25T10:21:30+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap3-typeahead.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:21:31+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:21:31+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-1.10.2.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:21:31+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-ui-1.9.2.custom.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:21:31+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:21:31+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/scripts.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:21:31+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/tagsinput-init.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:21:31+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap-fileupload.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:21:31+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/style.css
+ERR: 非法操作:css
+
+[ 2016-09-25T10:21:31+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:23:12+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-ui-1.9.2.custom.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:23:12+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery.nicescroll.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:23:12+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap3-typeahead.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:23:12+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-1.10.2.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:23:12+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/scripts.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:23:12+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:23:12+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap-fileupload.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:23:12+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:23:12+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/modernizr.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:23:12+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/tagsinput-init.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:23:12+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:23:22+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-1.10.2.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:23:22+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-ui-1.9.2.custom.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:23:22+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:23:22+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:23:22+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/modernizr.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:23:23+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap-fileupload.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:23:23+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap3-typeahead.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:23:23+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/tagsinput-init.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:23:23+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:23:23+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/scripts.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:23:23+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery.nicescroll.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:23:59+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/modernizr.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:23:59+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery.nicescroll.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:23:59+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap3-typeahead.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:23:59+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/scripts.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:23:59+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:23:59+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-1.10.2.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:23:59+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:23:59+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:23:59+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/tagsinput-init.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:23:59+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap-fileupload.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:23:59+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-ui-1.9.2.custom.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:24:52+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap3-typeahead.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:24:52+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery.nicescroll.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:24:52+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-ui-1.9.2.custom.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:24:52+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/modernizr.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:24:52+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:24:53+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap-fileupload.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:24:53+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:24:53+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/tagsinput-init.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:24:53+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:24:53+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/scripts.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:24:53+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-1.10.2.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:25:23+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:25:23+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-ui-1.9.2.custom.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:25:23+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery.nicescroll.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:25:23+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:25:23+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/scripts.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:25:23+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/modernizr.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:25:23+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/tagsinput-init.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:25:23+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap-fileupload.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:25:23+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-1.10.2.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:25:24+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap3-typeahead.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:25:24+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:36:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/bootstrap-fileupload.min.css
+ERR: 非法操作:css
+
+[ 2016-09-25T10:36:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/style-responsive.css
+ERR: 非法操作:css
+
+[ 2016-09-25T10:36:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-1.10.2.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:36:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery.nicescroll.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:36:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/style.css
+ERR: 非法操作:css
+
+[ 2016-09-25T10:36:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/modernizr.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:36:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:36:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.css
+ERR: 非法操作:js
+
+[ 2016-09-25T10:36:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/scripts.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:36:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:36:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/tagsinput-init.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:36:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:36:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-ui-1.9.2.custom.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:36:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap-fileupload.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:39:05+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/bootstrap-fileupload.min.css
+ERR: 非法操作:css
+
+[ 2016-09-25T10:39:05+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/style-responsive.css
+ERR: 非法操作:css
+
+[ 2016-09-25T10:39:05+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-ui-1.9.2.custom.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:39:05+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.css
+ERR: 非法操作:js
+
+[ 2016-09-25T10:39:05+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/scripts.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:39:05+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:39:05+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/modernizr.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:39:05+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery.nicescroll.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:39:05+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:39:05+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-1.10.2.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:39:05+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/style.css
+ERR: 非法操作:css
+
+[ 2016-09-25T10:39:05+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap-fileupload.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:39:05+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/tagsinput-init.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:39:06+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:39:55+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/bootstrap-fileupload.min.css
+ERR: 非法操作:css
+
+[ 2016-09-25T10:39:55+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/modernizr.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:39:55+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:39:55+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery.nicescroll.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:39:55+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/style.css
+ERR: 非法操作:css
+
+[ 2016-09-25T10:39:55+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/scripts.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:39:55+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-1.10.2.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:39:55+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-ui-1.9.2.custom.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:39:55+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:39:55+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap-fileupload.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:39:55+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:39:55+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/style-responsive.css
+ERR: 非法操作:css
+
+[ 2016-09-25T10:39:55+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/tagsinput-init.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:39:55+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.css
+ERR: 非法操作:js
+
+[ 2016-09-25T10:41:25+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/do_job_upload/companyname/%E5%B9%BF%E4%B8%9C%E8%B5%9B%E5%A3%B9%E4%BE%BF%E5%88%A9%E5%BA%97%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+ERR: 非法操作:do_job_upload
+
+[ 2016-09-25T10:45:39+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/modernizr.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:45:39+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/bootstrap-fileupload.min.css
+ERR: 非法操作:css
+
+[ 2016-09-25T10:45:39+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:45:39+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.css
+ERR: 非法操作:js
+
+[ 2016-09-25T10:45:39+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery.nicescroll.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:45:39+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:45:40+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap-fileupload.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:45:40+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/scripts.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:45:40+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:45:40+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/tagsinput-init.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:45:40+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/style-responsive.css
+ERR: 非法操作:css
+
+[ 2016-09-25T10:45:40+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-ui-1.9.2.custom.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:45:40+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/style.css
+ERR: 非法操作:css
+
+[ 2016-09-25T10:45:40+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-1.10.2.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:48:16+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/bootstrap-fileupload.min.css
+ERR: 非法操作:css
+
+[ 2016-09-25T10:48:16+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.css
+ERR: 非法操作:js
+
+[ 2016-09-25T10:48:16+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/style.css
+ERR: 非法操作:css
+
+[ 2016-09-25T10:48:17+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery.nicescroll.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:48:17+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/modernizr.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:48:17+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:48:17+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:48:17+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:48:17+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/scripts.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:48:17+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-1.10.2.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:48:17+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/tagsinput-init.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:48:17+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap-fileupload.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:48:17+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/style-responsive.css
+ERR: 非法操作:css
+
+[ 2016-09-25T10:48:17+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-ui-1.9.2.custom.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:49:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-1.10.2.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:49:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.css
+ERR: 非法操作:js
+
+[ 2016-09-25T10:49:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:49:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:49:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-ui-1.9.2.custom.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:49:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/bootstrap-fileupload.min.css
+ERR: 非法操作:css
+
+[ 2016-09-25T10:49:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/scripts.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:49:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery.nicescroll.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:49:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:49:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/tagsinput-init.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:49:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap-fileupload.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:49:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/modernizr.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:49:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/style.css
+ERR: 非法操作:css
+
+[ 2016-09-25T10:49:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/style-responsive.css
+ERR: 非法操作:css
+
+[ 2016-09-25T10:54:22+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/bootstrap-fileupload.min.css
+ERR: 非法操作:css
+
+[ 2016-09-25T10:54:22+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.css
+ERR: 非法操作:js
+
+[ 2016-09-25T10:54:22+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-1.10.2.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:54:22+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/modernizr.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:54:22+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:54:22+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery.nicescroll.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:54:22+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/style.css
+ERR: 非法操作:css
+
+[ 2016-09-25T10:54:22+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-ui-1.9.2.custom.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:54:22+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/scripts.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:54:22+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:54:22+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/tagsinput-init.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:54:22+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap-fileupload.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:54:23+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/style-responsive.css
+ERR: 非法操作:css
+
+[ 2016-09-25T10:54:23+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:55:03+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-ui-1.9.2.custom.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:55:03+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.css
+ERR: 非法操作:js
+
+[ 2016-09-25T10:55:03+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/bootstrap-fileupload.min.css
+ERR: 非法操作:css
+
+[ 2016-09-25T10:55:03+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/modernizr.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:55:03+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/scripts.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:55:03+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery.nicescroll.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:55:03+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-1.10.2.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:55:03+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/style-responsive.css
+ERR: 非法操作:css
+
+[ 2016-09-25T10:55:03+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/tagsinput-init.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:55:03+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:55:03+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:55:03+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap-fileupload.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:55:03+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/style.css
+ERR: 非法操作:css
+
+[ 2016-09-25T10:55:03+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:55:23+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/bootstrap-fileupload.min.css
+ERR: 非法操作:css
+
+[ 2016-09-25T10:55:23+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-1.10.2.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:55:23+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.css
+ERR: 非法操作:js
+
+[ 2016-09-25T10:55:23+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/modernizr.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:55:23+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery.nicescroll.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:55:23+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:55:23+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-ui-1.9.2.custom.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:55:23+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:55:23+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/tagsinput-init.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:55:23+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap-fileupload.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:55:23+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/style-responsive.css
+ERR: 非法操作:css
+
+[ 2016-09-25T10:55:23+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T10:55:23+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/style.css
+ERR: 非法操作:css
+
+[ 2016-09-25T10:55:23+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/scripts.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:01:05+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/style-responsive.css
+ERR: 非法操作:css
+
+[ 2016-09-25T11:01:05+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/bootstrap-fileupload.min.css
+ERR: 非法操作:css
+
+[ 2016-09-25T11:01:05+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:01:05+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery.nicescroll.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:01:05+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/style.css
+ERR: 非法操作:css
+
+[ 2016-09-25T11:01:05+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:01:05+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:01:05+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/tagsinput-init.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:01:05+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap-fileupload.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:01:05+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/scripts.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:01:05+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-ui-1.9.2.custom.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:01:05+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.css
+ERR: 非法操作:js
+
+[ 2016-09-25T11:01:05+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-1.10.2.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:01:05+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/modernizr.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:01:57+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/bootstrap-fileupload.min.css
+ERR: 非法操作:css
+
+[ 2016-09-25T11:01:57+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-ui-1.9.2.custom.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:01:57+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.css
+ERR: 非法操作:js
+
+[ 2016-09-25T11:01:57+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:01:57+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery.nicescroll.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:01:57+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/style.css
+ERR: 非法操作:css
+
+[ 2016-09-25T11:01:57+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/scripts.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:01:57+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:01:57+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/tagsinput-init.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:01:57+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap-fileupload.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:01:57+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:01:58+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-1.10.2.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:01:58+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/modernizr.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:01:58+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/style-responsive.css
+ERR: 非法操作:css
+
+[ 2016-09-25T11:03:40+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/style.css
+ERR: 非法操作:css
+
+[ 2016-09-25T11:03:40+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.css
+ERR: 非法操作:js
+
+[ 2016-09-25T11:03:40+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/style-responsive.css
+ERR: 非法操作:css
+
+[ 2016-09-25T11:03:40+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-1.10.2.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:03:41+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery.nicescroll.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:03:41+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/scripts.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:03:41+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap-fileupload.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:03:41+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/tagsinput-init.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:03:41+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:03:41+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:03:41+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-ui-1.9.2.custom.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:03:41+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:03:41+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/bootstrap-fileupload.min.css
+ERR: 非法操作:css
+
+[ 2016-09-25T11:03:41+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/modernizr.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:03:50+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/bootstrap-fileupload.min.css
+ERR: 非法操作:css
+
+[ 2016-09-25T11:03:50+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery.nicescroll.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:03:50+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:03:50+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:03:50+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-ui-1.9.2.custom.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:03:50+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/modernizr.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:03:50+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/style.css
+ERR: 非法操作:css
+
+[ 2016-09-25T11:03:50+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/scripts.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:03:50+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/style-responsive.css
+ERR: 非法操作:css
+
+[ 2016-09-25T11:03:50+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/tagsinput-init.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:03:50+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap-fileupload.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:03:50+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.css
+ERR: 非法操作:js
+
+[ 2016-09-25T11:03:50+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:03:50+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-1.10.2.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:05:15+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/bootstrap-fileupload.min.css
+ERR: 非法操作:css
+
+[ 2016-09-25T11:05:15+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.css
+ERR: 非法操作:js
+
+[ 2016-09-25T11:05:15+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-1.10.2.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:05:15+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/style-responsive.css
+ERR: 非法操作:css
+
+[ 2016-09-25T11:05:16+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-ui-1.9.2.custom.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:05:16+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:05:16+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/modernizr.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:05:16+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:05:16+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery.nicescroll.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:05:16+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/style.css
+ERR: 非法操作:css
+
+[ 2016-09-25T11:05:16+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/scripts.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:05:16+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:05:16+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/tagsinput-init.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:05:16+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap-fileupload.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:10:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.css
+ERR: 非法操作:js
+
+[ 2016-09-25T11:10:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/bootstrap-fileupload.min.css
+ERR: 非法操作:css
+
+[ 2016-09-25T11:10:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/style.css
+ERR: 非法操作:css
+
+[ 2016-09-25T11:10:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/css/style-responsive.css
+ERR: 非法操作:css
+
+[ 2016-09-25T11:10:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:10:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:10:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-ui-1.9.2.custom.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:10:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/modernizr.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:10:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/scripts.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:10:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/tagsinput-init.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:10:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery.nicescroll.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:10:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap-fileupload.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:10:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-1.10.2.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:10:34+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:10:40+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-1.10.2.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:10:40+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:10:40+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/scripts.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:10:40+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/tagsinput-init.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:10:40+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap-fileupload.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:10:40+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:10:40+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/modernizr.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:10:41+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery.nicescroll.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:10:41+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:10:41+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-ui-1.9.2.custom.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:10:47+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-1.10.2.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:10:47+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/modernizr.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:10:47+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-ui-1.9.2.custom.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:10:47+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery.nicescroll.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:10:47+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:10:47+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:10:47+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:10:47+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/scripts.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:10:47+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/tagsinput-init.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:10:47+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap-fileupload.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:11:19+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:11:19+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery.nicescroll.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:11:19+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/scripts.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:11:19+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:11:20+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap-fileupload.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:11:20+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/modernizr.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:11:20+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-1.10.2.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:11:20+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:11:20+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/tagsinput-init.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:11:20+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-ui-1.9.2.custom.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:11:39+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/scripts.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:11:39+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/jquery-tags-input/jquery.tagsinput.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:11:39+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/tagsinput-init.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:11:39+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/Job/js/bootstrap-fileupload.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:14:36+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/feedback/css/bootstrap-fileupload.min.css
+ERR: 非法操作:css
+
+[ 2016-09-25T11:14:36+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/feedback/js/jquery-tags-input/jquery.tagsinput.css
+ERR: 非法操作:js
+
+[ 2016-09-25T11:14:36+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/feedback/css/style-responsive.css
+ERR: 非法操作:css
+
+[ 2016-09-25T11:14:36+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/feedback/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:14:36+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/feedback/js/scripts.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:14:36+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/feedback/js/jquery-1.10.2.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:14:36+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/feedback/js/jquery.nicescroll.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:14:36+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/feedback/js/modernizr.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:14:36+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/feedback/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:14:36+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/feedback/js/jquery-ui-1.9.2.custom.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:14:36+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/feedback/css/style.css
+ERR: 非法操作:css
+
+[ 2016-09-25T11:16:31+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/feedback/css/bootstrap-fileupload.min.css
+ERR: 非法操作:css
+
+[ 2016-09-25T11:16:31+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/feedback/css/style.css
+ERR: 非法操作:css
+
+[ 2016-09-25T11:16:31+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/feedback/js/jquery-tags-input/jquery.tagsinput.css
+ERR: 非法操作:js
+
+[ 2016-09-25T11:16:31+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/feedback/css/style-responsive.css
+ERR: 非法操作:css
+
+[ 2016-09-25T11:16:31+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/feedback/js/jquery-ui-1.9.2.custom.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:16:31+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/feedback/js/jquery-1.10.2.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:16:31+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/feedback/js/jquery.nicescroll.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:16:31+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/feedback/js/scripts.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:16:31+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/feedback/js/modernizr.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:16:31+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/feedback/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:16:31+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/feedback/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:28:39+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/feedback/css/bootstrap-fileupload.min.css
+ERR: 非法操作:css
+
+[ 2016-09-25T11:28:39+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/feedback/css/style.css
+ERR: 非法操作:css
+
+[ 2016-09-25T11:28:39+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/feedback/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:28:39+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/feedback/js/jquery-1.10.2.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:28:39+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/feedback/js/jquery-tags-input/jquery.tagsinput.css
+ERR: 非法操作:js
+
+[ 2016-09-25T11:28:39+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/feedback/css/style-responsive.css
+ERR: 非法操作:css
+
+[ 2016-09-25T11:28:39+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/feedback/js/modernizr.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:28:39+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/feedback/js/jquery-ui-1.9.2.custom.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:28:39+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/feedback/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:28:39+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/feedback/js/scripts.js
+ERR: 非法操作:js
+
+[ 2016-09-25T11:28:39+08:00 ] 192.168.203.205 /jobBook/admin.php/Home/feedback/js/jquery.nicescroll.js
+ERR: 非法操作:js
+

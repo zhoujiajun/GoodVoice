@@ -1,0 +1,19 @@
+[ 2016-10-24T20:50:14+08:00 ] 192.168.1.14 /Jobbook/admin.php
+ERR: SQLSTATE[42000] [1049] Unknown database 'jobbook'
+
+[ 2016-10-24T20:50:22+08:00 ] 192.168.1.14 /Jobbook/admin.php
+ERR: SQLSTATE[42000] [1049] Unknown database 'jobbook'
+
+[ 2016-10-24T20:50:34+08:00 ] 192.168.1.14 /JobBook/admin.php
+ERR: SQLSTATE[42000] [1049] Unknown database 'jobbook'
+
+[ 2016-10-24T20:50:37+08:00 ] 192.168.1.14 /JobBook/admin.php
+ERR: SQLSTATE[42000] [1049] Unknown database 'jobbook'
+
+[ 2016-10-24T20:50:57+08:00 ] 192.168.1.14 /JobBook/admin.php
+ERR: SQLSTATE[42000] [1049] Unknown database 'jobbook'
+
+[ 2016-10-24T20:52:04+08:00 ] 192.168.1.14 /JobBook/admin.php
+ERR: SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+

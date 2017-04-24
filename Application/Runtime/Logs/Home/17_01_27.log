@@ -1,0 +1,16 @@
+[ 2017-01-27T00:00:46+08:00 ] ::1 /jobBook/index.php/cv/postcv/account/888
+ERR: 1054:Unknown column 'company' in 'field list'
+ [ SQL语句 ] : INSERT INTO `personality` (`user`,`name`,`sex`,`email`,`city`,`telephone`,`disabilityType`,`disabilityLevel`,`haveDisabilityCard`,`expectSalary`,`expectPosition`,`expectLocation`,`status`,`company`,`position`) VALUES ('888',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
+
+[ 2017-01-27T00:00:47+08:00 ] ::1 /jobBook/index.php/cv/postcv/account/888
+ERR: 1054:Unknown column 'company' in 'field list'
+ [ SQL语句 ] : INSERT INTO `personality` (`user`,`name`,`sex`,`email`,`city`,`telephone`,`disabilityType`,`disabilityLevel`,`haveDisabilityCard`,`expectSalary`,`expectPosition`,`expectLocation`,`status`,`company`,`position`) VALUES ('888',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
+
+[ 2017-01-27T00:00:48+08:00 ] ::1 /jobBook/index.php/cv/postcv/account/888
+ERR: 1054:Unknown column 'company' in 'field list'
+ [ SQL语句 ] : INSERT INTO `personality` (`user`,`name`,`sex`,`email`,`city`,`telephone`,`disabilityType`,`disabilityLevel`,`haveDisabilityCard`,`expectSalary`,`expectPosition`,`expectLocation`,`status`,`company`,`position`) VALUES ('888',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
+
+[ 2017-01-27T00:21:05+08:00 ] ::1 /jobBook/index.php/cv/postcv/account/888
+ERR: 1048:Column 'sex' cannot be null
+ [ SQL语句 ] : INSERT INTO `personality` (`user`,`sex`,`email`,`city`,`telephone`,`disabilityType`,`disabilityLevel`,`haveDisabilityCard`,`expectSalary`,`expectPosition`,`expectLocation`,`status`) VALUES ('888',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
+

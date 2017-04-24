@@ -1,0 +1,6 @@
+[ 2017-01-22T11:51:30+08:00 ] ::1 /Jobbook/person/
+ERR: 非法操作:index
+
+[ 2017-01-22T11:51:35+08:00 ] ::1 /Jobbook/person/updatepsw
+ERR: 参数错误或者未定义:account
+

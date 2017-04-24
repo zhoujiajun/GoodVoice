@@ -166,14 +166,19 @@ abstract class Driver {
             }
         }
         $this->bind =   array();
-        $result =   $this->PDOStatement->execute();
-        // 调试结束
-        $this->debug(false);
-        if ( false === $result ) {
+        try{
+            $result =   $this->PDOStatement->execute();
+            // 调试结束
+            $this->debug(false);
+            if ( false === $result ) {
+                $this->error();
+                return false;
+            } else {
+                return $this->getResult();
+            }
+        }catch (\PDOException $e) {
             $this->error();
             return false;
-        } else {
-            return $this->getResult();
         }
     }
 
@@ -214,17 +219,23 @@ abstract class Driver {
             }
         }
         $this->bind =   array();
-        $result =   $this->PDOStatement->execute();
-        $this->debug(false);
-        if ( false === $result) {
+        try{
+            $result =   $this->PDOStatement->execute();
+            // 调试结束
+            $this->debug(false);
+            if ( false === $result) {
+                $this->error();
+                return false;
+            } else {
+                $this->numRows = $this->PDOStatement->rowCount();
+                if(preg_match("/^\s*(INSERT\s+INTO|REPLACE\s+INTO)\s+/i", $str)) {
+                    $this->lastInsID = $this->_linkID->lastInsertId();
+                }
+                return $this->numRows;
+            }
+        }catch (\PDOException $e) {
             $this->error();
             return false;
-        } else {
-            $this->numRows = $this->PDOStatement->rowCount();
-            if(preg_match("/^\s*(INSERT\s+INTO|REPLACE\s+INTO)\s+/i", $str)) {
-                $this->lastInsID = $this->_linkID->lastInsertId();
-            }
-            return $this->numRows;
         }
     }
 
@@ -792,6 +803,9 @@ abstract class Driver {
             if(is_array($val) && 'exp' == $val[0]){
                 $fields[]   =  $this->parseKey($key);
                 $values[]   =  $val[1];
+            }elseif(is_null($val)){
+                $fields[]   =   $this->parseKey($key);
+                $values[]   =   'NULL';
             }elseif(is_scalar($val)) { // 过滤非标量数据
                 $fields[]   =   $this->parseKey($key);
                 if(0===strpos($val,':') && in_array($val,array_keys($this->bind))){
@@ -829,7 +843,9 @@ abstract class Driver {
             $value   =  array();
             foreach ($data as $key=>$val){
                 if(is_array($val) && 'exp' == $val[0]){
-                    $value[]   =  $val[1];
+                    $value[]   =    $val[1];
+                }elseif(is_null($val)){
+                    $value[]   =   'NULL';
                 }elseif(is_scalar($val)){
                     if(0===strpos($val,':') && in_array($val,array_keys($this->bind))){
                         $value[]   =   $this->parseValue($val);

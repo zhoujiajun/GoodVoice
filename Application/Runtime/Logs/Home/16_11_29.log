@@ -1,0 +1,12 @@
+[ 2016-11-29T00:14:06+08:00 ] ::1 /Jobbook/job/getDetail/job_id/1/account/15986090742
+ERR: 1146:Table 'jobbook.favour' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `favour`
+
+[ 2016-11-29T00:14:27+08:00 ] ::1 /Jobbook/job/getDetail/job_id/1/account/15986090742
+ERR: 1146:Table 'jobbook.favour' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `favour`
+
+[ 2016-11-29T00:14:28+08:00 ] ::1 /Jobbook/job/getDetail/job_id/1/account/15986090742
+ERR: 1146:Table 'jobbook.favour' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `favour`
+

@@ -1,0 +1,6 @@
+[ 2016-09-09T14:29:41+08:00 ] 192.168.8.32 /jobBook/Home/mail/check/account//com_id/2
+ERR: 参数错误或者未定义:com_id
+
+[ 2016-09-09T16:41:37+08:00 ] 192.168.8.28 /jobBook/Home/cv/getcv
+ERR: 参数错误或者未定义:account
+

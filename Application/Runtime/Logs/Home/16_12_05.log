@@ -1,0 +1,228 @@
+[ 2016-12-05T19:51:38+08:00 ] 192.168.1.119 /jobBook/question/getQuestion/q_id/1?=
+ERR: 非法操作:getQuestion
+
+[ 2016-12-05T20:45:58+08:00 ] ::1 /Jobbook/question/
+ERR: 非法操作:index
+
+[ 2016-12-05T20:55:19+08:00 ] ::1 /Jobbook/question/getHisQuestion/my/15986090742/you/888
+ERR: 参数错误或者未定义:his
+
+[ 2016-12-05T21:04:22+08:00 ] ::1 /Jobbook/question/getHisQuestion/his/888
+ERR: 参数错误或者未定义:my
+
+[ 2016-12-05T21:04:33+08:00 ] ::1 /Jobbook/question/getHisQuestion/his/888
+ERR: 参数错误或者未定义:my
+
+[ 2016-12-05T21:04:34+08:00 ] ::1 /Jobbook/question/getHisQuestion/his/888
+ERR: 参数错误或者未定义:my
+
+[ 2016-12-05T21:04:50+08:00 ] ::1 /Jobbook/question/getHisQuestion/his/888
+ERR: 参数错误或者未定义:my
+
+[ 2016-12-05T21:04:50+08:00 ] ::1 /Jobbook/question/getHisQuestion/his/888
+ERR: 参数错误或者未定义:my
+
+[ 2016-12-05T21:04:51+08:00 ] ::1 /Jobbook/question/getHisQuestion/his/888
+ERR: 参数错误或者未定义:my
+
+[ 2016-12-05T21:04:51+08:00 ] ::1 /Jobbook/question/getHisQuestion/his/888
+ERR: 参数错误或者未定义:my
+
+[ 2016-12-05T21:04:51+08:00 ] ::1 /Jobbook/question/getHisQuestion/his/888
+ERR: 参数错误或者未定义:my
+
+[ 2016-12-05T21:04:51+08:00 ] ::1 /Jobbook/question/getHisQuestion/his/888
+ERR: 参数错误或者未定义:my
+
+[ 2016-12-05T21:04:52+08:00 ] ::1 /Jobbook/question/getHisQuestion/his/888
+ERR: 参数错误或者未定义:my
+
+[ 2016-12-05T21:04:52+08:00 ] ::1 /Jobbook/question/getHisQuestion/his/888
+ERR: 参数错误或者未定义:my
+
+[ 2016-12-05T21:04:52+08:00 ] ::1 /Jobbook/question/getHisQuestion/his/888
+ERR: 参数错误或者未定义:my
+
+[ 2016-12-05T21:04:52+08:00 ] ::1 /Jobbook/question/getHisQuestion/his/888
+ERR: 参数错误或者未定义:my
+
+[ 2016-12-05T21:04:53+08:00 ] ::1 /Jobbook/question/getHisQuestion/his/888
+ERR: 参数错误或者未定义:my
+
+[ 2016-12-05T21:04:53+08:00 ] ::1 /Jobbook/question/getHisQuestion/his/888
+ERR: 参数错误或者未定义:my
+
+[ 2016-12-05T21:04:53+08:00 ] ::1 /Jobbook/question/getHisQuestion/his/888
+ERR: 参数错误或者未定义:my
+
+[ 2016-12-05T21:04:54+08:00 ] ::1 /Jobbook/question/getHisQuestion/his/888
+ERR: 参数错误或者未定义:my
+
+[ 2016-12-05T21:04:54+08:00 ] ::1 /Jobbook/question/getHisQuestion/his/888
+ERR: 参数错误或者未定义:my
+
+[ 2016-12-05T21:04:54+08:00 ] ::1 /Jobbook/question/getHisQuestion/his/888
+ERR: 参数错误或者未定义:my
+
+[ 2016-12-05T21:05:11+08:00 ] ::1 /Jobbook/question/getHisQuestion/his/888
+ERR: 参数错误或者未定义:my
+
+[ 2016-12-05T21:05:12+08:00 ] ::1 /Jobbook/question/getHisQuestion/his/888
+ERR: 参数错误或者未定义:my
+
+[ 2016-12-05T21:05:13+08:00 ] ::1 /Jobbook/question/getHisQuestion/his/888
+ERR: 参数错误或者未定义:my
+
+[ 2016-12-05T21:05:13+08:00 ] ::1 /Jobbook/question/getHisQuestion/his/888
+ERR: 参数错误或者未定义:my
+
+[ 2016-12-05T21:05:13+08:00 ] ::1 /Jobbook/question/getHisQuestion/his/888
+ERR: 参数错误或者未定义:my
+
+[ 2016-12-05T21:11:10+08:00 ] 192.168.1.119 /JobBook/question/getHisQuestion/my//his/18826101314
+ERR: 参数错误或者未定义:his
+
+[ 2016-12-05T21:11:38+08:00 ] 192.168.1.119 /JobBook/question/getHisQuestion/my//his/18826101314
+ERR: 参数错误或者未定义:his
+
+[ 2016-12-05T21:15:35+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T21:15:39+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T21:22:32+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T21:22:35+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T21:22:39+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T21:22:41+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T21:22:42+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T21:22:46+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T21:48:38+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T21:49:01+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T21:49:34+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T21:51:41+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T21:51:41+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T22:03:08+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T22:03:10+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T22:03:11+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T22:03:26+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T22:03:27+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T22:03:37+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T22:03:42+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T22:03:48+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T22:04:18+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T22:06:35+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T22:06:39+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T22:06:42+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T22:14:52+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T22:14:55+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T22:15:01+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T22:15:05+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T22:15:13+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T22:15:36+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T22:16:57+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T22:17:14+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T22:17:20+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T22:17:27+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T22:19:38+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T22:19:41+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T22:21:22+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T22:21:24+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T22:27:43+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T22:27:46+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T22:27:51+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T22:30:41+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T22:30:44+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T22:30:52+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T22:33:01+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+
+[ 2016-12-05T22:33:05+08:00 ] 192.168.1.119 /Jobbook/person/focusMe/account/
+ERR: 参数错误或者未定义:account
+

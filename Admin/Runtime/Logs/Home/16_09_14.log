@@ -1,0 +1,19 @@
+[ 2016-09-14T10:38:07+08:00 ] 127.0.0.1 /jobBook/admin.php/Home/job/index.html
+ERR: 非法操作:index
+
+[ 2016-09-14T10:38:16+08:00 ] 127.0.0.1 /jobBook/admin.php/Home/job/job_search
+ERR: 1146:Table 'jobbook.job_info' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `job_info`
+
+[ 2016-09-14T10:46:11+08:00 ] 127.0.0.1 /jobBook/admin.php/Home/job/index.html
+ERR: 非法操作:index
+
+[ 2016-09-14T12:38:37+08:00 ] 127.0.0.1 /jobBook/admin.php/Home/index/check
+ERR: 非法操作:check
+
+[ 2016-09-14T12:39:03+08:00 ] 127.0.0.1 /jobBook/admin.php/Home/index/check
+ERR: 非法操作:check
+
+[ 2016-09-14T20:35:10+08:00 ] 127.0.0.1 /jobBook/admin.php/Home/Article/getArticle/a_id/2
+ERR: 非法操作:getArticle
+

@@ -1,0 +1,27 @@
+[ 2016-09-26T16:55:42+08:00 ] ::1 /jobBook/admin.php/Home/Feedback/do_reply
+ERR: 参数错误或者未定义:to
+
+[ 2016-09-26T16:56:01+08:00 ] ::1 /jobBook/admin.php/Home/Feedback/do_reply/to/280745397@qq.com/error/WentWrong
+ERR: 参数错误或者未定义:id
+
+[ 2016-09-26T16:57:31+08:00 ] ::1 /jobBook/admin.php/Home/Feedback/do_reply/to/280745397@qq.com/error/WentWrong
+ERR: 参数错误或者未定义:id
+
+[ 2016-09-26T16:57:45+08:00 ] ::1 /jobBook/admin.php/Home/Feedback/do_reply/to/280745397@qq.com/error/WentWrong
+ERR: 参数错误或者未定义:id
+
+[ 2016-09-26T16:58:16+08:00 ] ::1 /jobBook/admin.php/Home/Feedback/do_reply/error/WentWrong
+ERR: 参数错误或者未定义:to
+
+[ 2016-09-26T17:26:11+08:00 ] ::1 /jobBook/admin.php/Home/Feedback/do_delete/id/13
+ERR: 非法操作:do_delete
+
+[ 2016-09-26T19:21:08+08:00 ] ::1 /jobBook/admin.php/Home/Question/login.html
+ERR: 非法操作:login
+
+[ 2016-09-26T22:14:55+08:00 ] ::1 /jobBook/admin.php/Home/job/article_upload.html
+ERR: 非法操作:article_upload
+
+[ 2016-09-26T22:21:41+08:00 ] ::1 /jobBook/admin.php/Home/job/index.html
+ERR: 非法操作:index
+

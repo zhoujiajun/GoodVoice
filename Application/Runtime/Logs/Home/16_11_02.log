@@ -1,0 +1,6 @@
+[ 2016-11-02T01:02:31+08:00 ] ::1 /jobBook/index.php/Home/job/getDetail
+ERR: 参数错误或者未定义:job_id
+
+[ 2016-11-02T20:13:08+08:00 ] ::1 /jobBook/home/index/login
+ERR: 非法操作:login
+

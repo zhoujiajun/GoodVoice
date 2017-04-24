@@ -1,0 +1,24 @@
+[ 2016-10-28T20:14:57+08:00 ] 192.168.1.10 /jobBook/admin.php/Home/index/home/index/login
+ERR: 非法操作:home
+
+[ 2016-10-28T20:15:04+08:00 ] 192.168.1.10 /jobBook/admin.php/Home/home/index/login
+ERR: 无法加载控制器:Home
+
+[ 2016-10-28T20:15:18+08:00 ] 192.168.1.10 /jobBook/admin.php/home/home/index/login
+ERR: 无法加载控制器:Home
+
+[ 2016-10-28T23:03:23+08:00 ] 192.168.1.10 /jobBook/admin.php/Home/index/home/index/login
+ERR: 非法操作:home
+
+[ 2016-10-28T23:03:30+08:00 ] 192.168.1.10 /jobBook/admin.php/Home/index/home/index/login
+ERR: 非法操作:home
+
+[ 2016-10-28T23:03:34+08:00 ] 192.168.1.10 /jobBook/admin.php/Home/index/home/index/login
+ERR: 非法操作:home
+
+[ 2016-10-28T23:03:48+08:00 ] 192.168.1.10 /jobBook/admin.php/Home/home/index/login
+ERR: 无法加载控制器:Home
+
+[ 2016-10-28T23:55:24+08:00 ] 192.168.203.195 /jobBook/admin.php/Home/index/home/index/login
+ERR: 非法操作:home
+

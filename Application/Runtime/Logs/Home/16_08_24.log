@@ -1,0 +1,67 @@
+[ 2016-08-24T16:13:11+08:00 ] 192.168.8.19 /jobBook/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014561s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001807s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001996s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000109s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000318s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.057203s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057500s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.041356s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.041562s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002790s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003037s ]
+
+[ 2016-08-24T16:13:14+08:00 ] 192.168.8.19 /jobBook/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000996s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001452s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000909s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001351s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000921s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001518s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001249s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001412s ]
+
+[ 2016-08-24T16:59:33+08:00 ] 192.168.8.19 /jobBook/Home/index/index
+ERR: 非法操作:index
+
+[ 2016-08-24T20:11:14+08:00 ] 192.168.8.19 /jobBook/Home/enter/do_register
+ERR: 非法操作:do_register
+
+[ 2016-08-24T20:11:19+08:00 ] 192.168.8.19 /jobBook/Home/enter/doRegister
+ERR: 1048:Column 'account' cannot be null
+ [ SQL语句 ] : INSERT INTO `user` (`account`,`password`,`telephone`) VALUES (NULL,'d41d8cd98f00b204e9800998ecf8427e',NULL)
+
+[ 2016-08-24T20:14:12+08:00 ] 192.168.8.19 /jobBook/Home/enter/doRegister
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `user` WHERE ( account= ) 
+
+[ 2016-08-24T20:14:25+08:00 ] 192.168.8.19 /jobBook/Home/enter/doRegister
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `user` WHERE ( account= ) 
+
+[ 2016-08-24T20:14:26+08:00 ] 192.168.8.19 /jobBook/Home/enter/doRegister
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `user` WHERE ( account= ) 
+
+[ 2016-08-24T20:14:30+08:00 ] 192.168.8.19 /jobBook/Home/enter/doRegister
+ERR: 1054:Unknown column '$username' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `user` WHERE ( account=$username ) 
+
+[ 2016-08-24T20:15:52+08:00 ] 192.168.8.19 /jobBook/Home/enter/doRegister
+ERR: 1048:Column 'telephone' cannot be null
+ [ SQL语句 ] : INSERT INTO `user` (`account`,`password`,`telephone`) VALUES ('李卓洋','f91f5ad9c77429a868fbd2b614b695d4',NULL)
+

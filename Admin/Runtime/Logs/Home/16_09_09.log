@@ -1,0 +1,1014 @@
+[ 2016-09-09T15:50:05+08:00 ] 192.168.8.28 /jobBook/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001900s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000237s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000732s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.095328s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.096040s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001511s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001841s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004467s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004847s ]
+
+[ 2016-09-09T15:54:25+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/404
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001940s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002872s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003127s ]
+
+[ 2016-09-09T15:54:47+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003202s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001103s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001301s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001109s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001278s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001559s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001728s ]
+
+[ 2016-09-09T15:54:53+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/404
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000896s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002808s ]
+
+[ 2016-09-09T15:56:08+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/PageNotFound
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001837s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002636s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002970s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000183s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000504s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021327s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021632s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001006s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001208s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001940s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002195s ]
+
+[ 2016-09-09T15:56:08+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/images/404-error.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001543s ]
+
+[ 2016-09-09T15:56:08+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001425s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002181s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002580s ]
+ERR: 非法操作:css
+
+[ 2016-09-09T15:56:08+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/css/style-responsive.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000162s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006890s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003451s ]
+ERR: 非法操作:css
+
+[ 2016-09-09T15:56:09+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/js/modernizr.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001474s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005744s ]
+ERR: 非法操作:js
+
+[ 2016-09-09T15:56:09+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/js/jquery-1.10.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000148s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003547s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002649s ]
+ERR: 非法操作:js
+
+[ 2016-09-09T15:56:09+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/js/jquery-migrate-1.2.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001632s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003454s ]
+ERR: 非法操作:js
+
+[ 2016-09-09T15:56:09+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000165s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001569s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005948s ]
+ERR: 非法操作:js
+
+[ 2016-09-09T15:56:09+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/PageNotFound
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001636s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003100s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003479s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000235s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000640s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.067295s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.067700s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001579s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001815s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001664s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001894s ]
+
+[ 2016-09-09T15:57:06+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/WentWrong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001667s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002253s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000333s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017040s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017327s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001325s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001505s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001418s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001824s ]
+
+[ 2016-09-09T15:57:07+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002402s ]
+ERR: 非法操作:css
+
+[ 2016-09-09T15:57:07+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/css/style-responsive.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001632s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002114s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002543s ]
+ERR: 非法操作:css
+
+[ 2016-09-09T15:57:07+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001684s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002950s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003304s ]
+ERR: 非法操作:js
+
+[ 2016-09-09T15:57:07+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/images/500-error.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001322s ]
+
+[ 2016-09-09T15:57:07+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/js/jquery-migrate-1.2.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.064484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.064794s ]
+ERR: 非法操作:js
+
+[ 2016-09-09T15:57:07+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/js/jquery-1.10.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002889s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005552s ]
+ERR: 非法操作:js
+
+[ 2016-09-09T15:57:07+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/js/modernizr.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001854s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009234s ]
+ERR: 非法操作:js
+
+[ 2016-09-09T15:57:07+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/WentWrong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001446s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003246s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000309s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001493s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035068s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035696s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003790s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004130s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004485s ]
+
+[ 2016-09-09T16:02:21+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/WentWrong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000843s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002369s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000327s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013345s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013974s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000966s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001274s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001944s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002124s ]
+
+[ 2016-09-09T16:02:21+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/images/500-error.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005560s ]
+
+[ 2016-09-09T16:02:21+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/js/jquery-1.10.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001835s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003014s ]
+ERR: 非法操作:js
+
+[ 2016-09-09T16:02:21+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/js/jquery-migrate-1.2.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001429s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002010s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002330s ]
+ERR: 非法操作:js
+
+[ 2016-09-09T16:02:21+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/css/style-responsive.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001697s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003325s ]
+ERR: 非法操作:css
+
+[ 2016-09-09T16:02:22+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/js/modernizr.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001357s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.013447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013872s ]
+ERR: 非法操作:js
+
+[ 2016-09-09T16:02:22+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000142s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002863s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003656s ]
+ERR: 非法操作:js
+
+[ 2016-09-09T16:02:22+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/WentWrong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001373s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005586s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006143s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000117s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000347s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018131s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018521s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001040s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001227s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001772s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002016s ]
+
+[ 2016-09-09T16:02:34+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/WentWrong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002519s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000108s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000295s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049852s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050075s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000853s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001036s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001281s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001458s ]
+
+[ 2016-09-09T16:02:34+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/WentWrong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002038s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000186s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000516s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018953s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019341s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001006s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001342s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001995s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002297s ]
+
+[ 2016-09-09T16:02:34+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/js/jquery-1.10.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001931s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002276s ]
+ERR: 非法操作:js
+
+[ 2016-09-09T16:02:34+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/images/500-error.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001356s ]
+
+[ 2016-09-09T16:02:34+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/js/modernizr.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002354s ]
+ERR: 非法操作:js
+
+[ 2016-09-09T16:02:34+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/js/jquery-migrate-1.2.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003979s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004847s ]
+ERR: 非法操作:js
+
+[ 2016-09-09T16:02:34+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001397s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004730s ]
+ERR: 非法操作:js
+
+[ 2016-09-09T16:02:57+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/WentWrong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002113s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002775s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000166s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000518s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025707s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026379s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001939s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002461s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003838s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004350s ]
+
+[ 2016-09-09T16:02:57+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/js/modernizr.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001357s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001747s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002070s ]
+ERR: 非法操作:js
+
+[ 2016-09-09T16:02:57+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001738s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002078s ]
+ERR: 非法操作:js
+
+[ 2016-09-09T16:02:57+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/js/jquery-migrate-1.2.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001187s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002086s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002485s ]
+ERR: 非法操作:js
+
+[ 2016-09-09T16:02:57+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/js/jquery-1.10.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005882s ]
+ERR: 非法操作:js
+
+[ 2016-09-09T16:02:57+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/WentWrong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000167s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003004s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004162s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000297s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002242s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046903s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048148s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002823s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003209s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004828s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005175s ]
+
+[ 2016-09-09T16:04:10+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/WentWrong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000916s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002841s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000380s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000822s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019969s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020337s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001573s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001938s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002235s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002823s ]
+
+[ 2016-09-09T16:04:11+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/WentWrong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002186s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002448s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000208s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000614s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020026s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020254s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000995s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001254s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001377s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001550s ]
+
+[ 2016-09-09T16:05:13+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/PageNotFound
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000905s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001570s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000196s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000639s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026554s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026928s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001313s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001755s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002334s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002718s ]
+
+[ 2016-09-09T16:05:13+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001391s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002158s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002521s ]
+ERR: 非法操作:css
+
+[ 2016-09-09T16:05:13+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/css/style-responsive.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002018s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003011s ]
+ERR: 非法操作:css
+
+[ 2016-09-09T16:05:13+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001364s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002176s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002542s ]
+ERR: 非法操作:js
+
+[ 2016-09-09T16:05:14+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/js/jquery-migrate-1.2.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001470s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002498s ]
+ERR: 非法操作:js
+
+[ 2016-09-09T16:05:14+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/js/modernizr.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009005s ]
+ERR: 非法操作:js
+
+[ 2016-09-09T16:05:14+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/PageNotFound
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001543s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003164s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003525s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002170s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040331s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041070s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002092s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002582s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006787s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007120s ]
+
+[ 2016-09-09T16:05:14+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/images/404-error.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001661s ]
+
+[ 2016-09-09T16:05:14+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/js/jquery-1.10.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001811s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002921s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003443s ]
+ERR: 非法操作:js
+
+[ 2016-09-09T16:06:10+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/PageNotFound
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001608s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001563s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000189s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000549s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021091s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021581s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001424s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001821s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002328s ]
+
+[ 2016-09-09T16:06:10+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/images/404-error.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002796s ]
+
+[ 2016-09-09T16:06:10+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/PageNotFound
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000138s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002553s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002189s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002591s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000280s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001203s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023645s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024034s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001663s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001969s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002207s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002595s ]
+
+[ 2016-09-09T16:06:18+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/PageNotFound
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002154s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002442s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000129s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000480s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014639s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014843s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000883s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001053s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001276s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001468s ]
+
+[ 2016-09-09T16:06:19+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/error/PageNotFound
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001402s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001536s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000269s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000789s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047655s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048590s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002705s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003178s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002435s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003241s ]
+
+[ 2016-09-09T16:07:43+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002726s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002758s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002360s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002880s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002466s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002937s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002501s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002855s ]
+
+[ 2016-09-09T16:08:06+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000909s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001187s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001374s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000146s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000341s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019590s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020068s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000823s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000994s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001305s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001517s ]
+
+[ 2016-09-09T16:08:07+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/index/js/morris-chart/morris.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001836s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002193s ]
+ERR: 非法操作:js
+
+[ 2016-09-09T16:08:07+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/index/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001760s ]
+
+[ 2016-09-09T16:08:07+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/index/css/style-responsive.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003141s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002692s ]
+ERR: 非法操作:css
+
+[ 2016-09-09T16:08:07+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/index/js/modernizr.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.002076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003730s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001813s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002210s ]
+ERR: 非法操作:js
+
+[ 2016-09-09T16:08:07+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/index/js/jquery-ui-1.9.2.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001371s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005444s ]
+ERR: 非法操作:js
+
+[ 2016-09-09T16:08:07+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/index/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.016535s ]
+INFO: [ app_init ] --END-- [ RunTime:0.051257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003484s ]
+ERR: 非法操作:css
+
+[ 2016-09-09T16:08:07+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/index/js/jquery-1.10.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008734s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002816s ]
+ERR: 非法操作:js
+
+[ 2016-09-09T16:08:07+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/index/js/jquery.nicescroll.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001588s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002545s ]
+ERR: 非法操作:js
+
+[ 2016-09-09T16:08:07+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/index/js/morris-chart/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001969s ]
+ERR: 非法操作:js
+
+[ 2016-09-09T16:08:07+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001455s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002433s ]
+ERR: 非法操作:js
+
+[ 2016-09-09T16:08:07+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/index/images/logo_icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001501s ]
+
+[ 2016-09-09T16:08:07+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/index/images/photos/user-avatar.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001348s ]
+
+[ 2016-09-09T16:08:07+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/index/js/jquery-migrate-1.2.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001450s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006777s ]
+ERR: 非法操作:js
+
+[ 2016-09-09T16:08:07+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/index/js/scripts.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002942s ]
+ERR: 非法操作:js
+
+[ 2016-09-09T16:08:07+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002651s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000255s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001262s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.065033s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.065419s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004777s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005333s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006228s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006669s ]
+
+[ 2016-09-09T16:08:07+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/index/js/home-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000145s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001950s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003857s ]
+ERR: 非法操作:js
+
+[ 2016-09-09T16:08:07+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/index/js/morris-chart/morris.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003329s ]
+ERR: 非法操作:js
+
+[ 2016-09-09T16:19:55+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001717s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004384s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000278s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000814s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022296s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022661s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003212s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005158s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004289s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004874s ]
+
+[ 2016-09-09T16:19:55+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001128s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003046s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000271s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000801s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035172s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035670s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001807s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002218s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002855s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003431s ]
+
+[ 2016-09-09T16:27:38+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000850s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002592s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003004s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2016-09-09T16:29:21+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001879s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002180s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2016-09-09T16:29:23+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001949s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002865s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003146s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2016-09-09T16:29:23+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000142s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001598s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001719s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2016-09-09T17:00:42+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/index/askask_search.html
+ERR: 非法操作:askask_search
+
+[ 2016-09-09T17:25:38+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/Index/doLogin
+ERR: 模板不存在:./Admin/Home/View/Index/doLogin.html
+
+[ 2016-09-09T17:26:21+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/Index/doLogin
+ERR: 模板不存在:./Admin/Home/View/Index/doLogin.html
+
+[ 2016-09-09T17:27:38+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/Index/doLogin
+ERR: 模板不存在:./Admin/Home/View/Index/doLogin.html
+
+[ 2016-09-09T17:30:17+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/Index/__URL__/login
+ERR: 非法操作:__URL__
+
+[ 2016-09-09T17:30:41+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/Index/'__URL__/login'
+ERR: 非法操作:'__URL__
+
+[ 2016-09-09T17:31:31+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/Index/__URL__/login
+ERR: 非法操作:__URL__
+
+[ 2016-09-09T17:35:11+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/Index/__URL__/login
+ERR: 非法操作:__URL__
+
+[ 2016-09-09T17:36:32+08:00 ] 192.168.8.28 /jobBook/admin.php/Home/Index/__URL__/login
+ERR: 非法操作:__URL__
+

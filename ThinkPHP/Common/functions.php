@@ -352,9 +352,11 @@ function I($name,$default='',$filter=null,$datas=null) {
         $filters    =   isset($filter)?$filter:C('DEFAULT_FILTER');
         if($filters) {
             if(is_string($filters)){
-                if(0 === strpos($filters,'/') && 1 !== preg_match($filters,(string)$data)){
-                    // 支持正则验证
-                    return   isset($default) ? $default : null;
+                if(0 === strpos($filters,'/')){
+                    if(1 !== preg_match($filters,(string)$data)){
+                        // 支持正则验证
+                        return   isset($default) ? $default : null;
+                    }
                 }else{
                     $filters    =   explode(',',$filters);                    
                 }
@@ -1230,7 +1232,7 @@ function session($name='',$value='') {
         }elseif(isset($name['id'])) {
             session_id($name['id']);
         }
-        if('common' != APP_MODE){ // 其它模式可能不支持
+        if('common' == APP_MODE){ // 其它模式可能不支持
             ini_set('session.auto_start', 0);
         }
         if(isset($name['name']))            session_name($name['name']);

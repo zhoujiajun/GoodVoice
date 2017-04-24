@@ -1,0 +1,6 @@
+[ 2016-08-25T11:10:02+08:00 ] 192.168.8.19 /jobBook/index.php/Home/enter
+ERR: 非法操作:index
+
+[ 2016-08-25T17:48:00+08:00 ] 192.168.8.19 /jobBook/index.php/Home/article/MyFavourite
+ERR: 非法操作:myfavourite
+

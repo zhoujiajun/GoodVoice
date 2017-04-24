@@ -170,6 +170,8 @@ class Dispatcher {
             // 加载模块函数文件
             if(is_file(MODULE_PATH.'Common/function.php'))
                 include MODULE_PATH.'Common/function.php';
+            
+            $urlCase        =   C('URL_CASE_INSENSITIVE');
             // 加载模块的扩展配置文件
             load_ext_file(MODULE_PATH);
         }else{
@@ -245,7 +247,7 @@ class Dispatcher {
         define('__ACTION__',__CONTROLLER__.$depr.(defined('ACTION_ALIAS')?ACTION_ALIAS:ACTION_NAME));
 
         //保证$_REQUEST正常取值
-        $_REQUEST = array_merge($_POST,$_GET);
+        $_REQUEST = array_merge($_POST,$_GET,$_COOKIE);	// -- 加了$_COOKIE.  保证哦..
     }
 
     /**

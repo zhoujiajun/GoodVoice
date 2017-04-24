@@ -1,0 +1,32 @@
+[ 2016-11-28T20:00:36+08:00 ] 192.168.1.111 /jobBook/job/search/keyword/
+ERR: 参数错误或者未定义:keyword
+
+[ 2016-11-28T20:31:23+08:00 ] ::1 /Jobbook/index.php/Home/focus/
+ERR: 非法操作:index
+
+[ 2016-11-28T20:31:30+08:00 ] ::1 /Jobbook/index.php/Home/focus/getPersonInfo
+ERR: 参数错误或者未定义:account
+
+[ 2016-11-28T21:28:17+08:00 ] ::1 /Jobbook/job/search/account/888
+ERR: 参数错误或者未定义:location
+
+[ 2016-11-28T21:28:28+08:00 ] ::1 /Jobbook/job/search/location/%E5%B9%BF%E5%B7%9E
+ERR: 参数错误或者未定义:type
+
+[ 2016-11-28T21:28:32+08:00 ] ::1 /Jobbook/job/search/location/%E5%B9%BF%E5%B7%9E/type
+ERR: 参数错误或者未定义:type
+
+[ 2016-11-28T21:28:53+08:00 ] ::1 /Jobbook/job/search/location/%E5%B9%BF%E5%B7%9E/type/%E5%AE%A2%E6%9C%8D
+ERR: 1146:Table 'jobbook.job' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `job`
+
+[ 2016-11-28T21:40:55+08:00 ] ::1 /Jobbook/job/search/location/%E5%B9%BF%E5%B7%9E/type/
+ERR: 参数错误或者未定义:type
+
+[ 2016-11-28T22:22:48+08:00 ] 192.168.1.111 /jobBook/question/focusQuestion/account/null
+ERR: 1054:Unknown column 'focused' in 'field list'
+ [ SQL语句 ] : SELECT `focused` FROM `focus` 
+
+[ 2016-11-28T23:19:10+08:00 ] ::1 /Jobbook/job/getDetail/
+ERR: 参数错误或者未定义:job_id
+

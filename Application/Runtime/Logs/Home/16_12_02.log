@@ -1,0 +1,12 @@
+[ 2016-12-02T20:49:34+08:00 ] 192.168.1.119 /jobBook/question/getQuestion/q_id/1?=
+ERR: 非法操作:getQuestion
+
+[ 2016-12-02T21:07:09+08:00 ] ::1 /Jobbook/person/
+ERR: 非法操作:index
+
+[ 2016-12-02T21:07:26+08:00 ] ::1 /Jobbook/question/
+ERR: 非法操作:index
+
+[ 2016-12-02T21:46:21+08:00 ] 192.168.1.119 /jobBook/question/getQuestion/q_id/2?=
+ERR: 非法操作:getQuestion
+

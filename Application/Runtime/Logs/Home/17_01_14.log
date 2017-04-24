@@ -1,0 +1,24 @@
+[ 2017-01-14T19:45:32+08:00 ] ::1 /jobBook/home/index/login
+ERR: 非法操作:login
+
+[ 2017-01-14T19:45:40+08:00 ] ::1 /jobBook/home/index/login
+ERR: 非法操作:login
+
+[ 2017-01-14T19:48:35+08:00 ] 127.0.0.1 /JobBook/home/index/login
+ERR: 非法操作:login
+
+[ 2017-01-14T19:54:21+08:00 ] ::1 /JobBook/home/index/login
+ERR: 非法操作:login
+
+[ 2017-01-14T19:54:40+08:00 ] ::1 /JobBook/home/index/login
+ERR: 非法操作:login
+
+[ 2017-01-14T20:02:17+08:00 ] ::1 /JobBook/Public/js/wysihtml5-0.3.0.js
+ERR: 无法加载控制器:Public
+
+[ 2017-01-14T20:02:25+08:00 ] ::1 /JobBook/Public/js/wysihtml5-0.3.0.js
+ERR: 无法加载控制器:Public
+
+[ 2017-01-14T20:48:40+08:00 ] ::1 /jobBook/home/article/likesArticle
+ERR: 参数错误或者未定义:account
+

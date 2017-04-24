@@ -1,0 +1,12 @@
+[ 2016-10-29T00:49:16+08:00 ] 192.168.203.195 /jobBook/admin.php/Home/index/__URL__/delete_user
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002790s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004457s ]
+ERR: 非法操作:__URL__
+
+[ 2016-10-29T01:03:54+08:00 ] 192.168.203.195 /jobBook/admin.php/Home/index/__URL__/delete_user
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001146s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002124s ]
+ERR: 非法操作:__URL__
+

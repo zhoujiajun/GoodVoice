@@ -1,0 +1,4 @@
+[ 2017-03-29T00:02:29+08:00 ] ::1 /jobBook/index.php/person/MyFavourite/account/15986090742
+ERR: 1054:Unknown column 'comlogo' in 'field list'
+ [ SQL语句 ] : SELECT f.job_id,`name`,`companyname`,`location`,`time`,`salary`,`comlogo` FROM `favourite` `f`,`jobinfo` `j` WHERE (  f.job_id=j.job_id ) AND (  user='15986090742' ) 
+

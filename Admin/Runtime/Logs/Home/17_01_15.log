@@ -1,0 +1,24 @@
+[ 2017-01-15T20:03:25+08:00 ] ::1 /JobBook/admin.php/Home/Question/askask_edit/q_id/13
+ERR: 1146:Table 'jobbook.ask_answer' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `ask_answer`
+
+[ 2017-01-15T20:05:40+08:00 ] ::1 /JobBook/admin.php/Home/Question/askask_edit/q_id/
+ERR: 1146:Table 'jobbook.ask_answer' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `ask_answer`
+
+[ 2017-01-15T20:05:49+08:00 ] ::1 /JobBook/admin.php/Home/Question/askask_edit/q_id/13
+ERR: 1146:Table 'jobbook.ask_answer' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `ask_answer`
+
+[ 2017-01-15T20:07:03+08:00 ] ::1 /JobBook/admin.php/Home/Question/askask_edit/q_id/13
+ERR: 1146:Table 'jobbook.ask_answer' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `ask_answer`
+
+[ 2017-01-15T20:32:29+08:00 ] ::1 /JobBook/admin.php/Home/Question/do_function/q_id/13
+ERR: 1146:Table 'jobbook.ask_answer' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `ask_answer`
+
+[ 2017-01-15T20:42:42+08:00 ] ::1 /JobBook/admin.php/Home/Question/delete_comment/c_id/7
+ERR: 1146:Table 'jobbook.ask_answer' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `ask_answer`
+

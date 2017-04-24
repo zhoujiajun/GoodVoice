@@ -1,0 +1,72 @@
+[ 2016-09-07T10:23:35+08:00 ] 192.168.8.34 /jobBook/Home/cv/postCV/account888
+ERR: 参数错误或者未定义:account
+
+[ 2016-09-07T10:23:49+08:00 ] 192.168.8.34 /jobBook/Home/cv/postCV/account888
+ERR: 参数错误或者未定义:account
+
+[ 2016-09-07T10:23:57+08:00 ] 192.168.8.34 /jobBook/Home/cv/postCV/account888
+ERR: 参数错误或者未定义:account
+
+[ 2016-09-07T10:34:08+08:00 ] 127.0.0.1 /jobBook/Home/cv/getcv/account/Clarence
+ERR: 1054:Unknown column 'admissiondate' in 'field list'
+ [ SQL语句 ] : SELECT `admissiondate`,`graduationdate`,`school`,`major` FROM `work` WHERE `user` = 'Clarence' 
+
+[ 2016-09-07T10:34:23+08:00 ] 127.0.0.1 /jobBook/Home/cv/getcv/account/asf
+ERR: 1054:Unknown column 'admissiondate' in 'field list'
+ [ SQL语句 ] : SELECT `admissiondate`,`graduationdate`,`school`,`major` FROM `work` WHERE `user` = 'asf' 
+
+[ 2016-09-07T10:34:35+08:00 ] 127.0.0.1 /jobBook/Home/cv/getcv
+ERR: 参数错误或者未定义:account
+
+[ 2016-09-07T10:34:50+08:00 ] 127.0.0.1 /jobBook/Home/cv/getcv/account/Clarence
+ERR: 1054:Unknown column 'admissiondate' in 'field list'
+ [ SQL语句 ] : SELECT `admissiondate`,`graduationdate`,`school`,`major` FROM `work` WHERE `user` = 'Clarence' 
+
+[ 2016-09-07T10:45:51+08:00 ] 192.168.8.34 /jobBook/Home/cv/postCV/account888
+ERR: 参数错误或者未定义:account
+
+[ 2016-09-07T10:45:56+08:00 ] 192.168.8.32 /jobBook/Home/person/uploadpsw/account/Xu/oldpsw/-84-9749298102-1092-98-5852-118-266-68-23/newpsw/-13121-22-13-5649-8077-318370-9927-205294
+ERR: 非法操作:uploadpsw
+
+[ 2016-09-07T10:46:01+08:00 ] 192.168.8.32 /jobBook/Home/person/uploadpsw/account/Xu/oldpsw/-84-9749298102-1092-98-5852-118-266-68-23/newpsw/-13121-22-13-5649-8077-318370-9927-205294
+ERR: 非法操作:uploadpsw
+
+[ 2016-09-07T10:46:04+08:00 ] 192.168.8.34 /jobBook/Home/cv/postCV/account888
+ERR: 参数错误或者未定义:account
+
+[ 2016-09-07T10:47:25+08:00 ] 192.168.8.32 /jobBook/Home/person/uploadpsw/account/Xu/oldpsw/-84-9749298102-1092-98-5852-118-266-68-23/newpsw/-13121-22-13-5649-8077-318370-9927-205294
+ERR: 非法操作:uploadpsw
+
+[ 2016-09-07T10:48:43+08:00 ] 192.168.8.34 /jobBook/Home/cv/postCV/account888
+ERR: 参数错误或者未定义:account
+
+[ 2016-09-07T10:50:35+08:00 ] 192.168.8.32 /jobBook/Home/person/uploadpsw/account/Xu/oldpsw/-84-9749298102-1092-98-5852-118-266-68-23/newpsw/-13121-22-13-5649-8077-318370-9927-205294
+ERR: 非法操作:uploadpsw
+
+[ 2016-09-07T10:50:45+08:00 ] 192.168.8.32 /jobBook/Home/person/uploadpsw/account/Xu/oldpsw/-84-9749298102-1092-98-5852-118-266-68-23/newpsw/-13121-22-13-5649-8077-318370-9927-205294
+ERR: 非法操作:uploadpsw
+
+[ 2016-09-07T10:52:12+08:00 ] 192.168.8.32 /jobBook/Home/person/uploadpsw/account/Xu/oldpsw/-84-9749298102-1092-98-5852-118-266-68-23/newpsw/-13121-22-13-5649-8077-318370-9927-205294
+ERR: 非法操作:uploadpsw
+
+[ 2016-09-07T10:52:46+08:00 ] 192.168.8.28 /jobBook/Home/person/updatepsw
+ERR: 参数错误或者未定义:account
+
+[ 2016-09-07T10:53:38+08:00 ] 192.168.8.32 /jobBook/Home/person/uploadpsw/account/Xu/oldpsw/-84-9749298102-1092-98-5852-118-266-68-23/newpsw/-13121-22-13-5649-8077-318370-9927-205294
+ERR: 非法操作:uploadpsw
+
+[ 2016-09-07T10:53:48+08:00 ] 192.168.8.32 /jobBook/Home/person/uploadpsw/account/Xu/oldpsw/-84-9749298102-1092-98-5852-118-266-68-23/newpsw/-13121-22-13-5649-8077-318370-9927-205294
+ERR: 非法操作:uploadpsw
+
+[ 2016-09-07T10:54:06+08:00 ] 192.168.8.32 /jobBook/Home/person/uploadpsw/account/Xu/oldpsw/-84-9749298102-1092-98-5852-118-266-68-23/newpsw/-13121-22-13-5649-8077-318370-9927-205294
+ERR: 非法操作:uploadpsw
+
+[ 2016-09-07T12:58:39+08:00 ] 192.168.8.34 /jobBook/Home/cv/postCV/account888
+ERR: 参数错误或者未定义:account
+
+[ 2016-09-07T12:58:47+08:00 ] 192.168.8.34 /jobBook/Home/cv/postCV/account888
+ERR: 参数错误或者未定义:account
+
+[ 2016-09-07T20:44:29+08:00 ] 192.168.8.28 /jobBook/Home/cv/postcv
+ERR: 参数错误或者未定义:account
+

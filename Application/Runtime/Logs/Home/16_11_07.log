@@ -1,0 +1,14 @@
+[ 2016-11-07T21:11:26+08:00 ] 192.168.1.16 /jobBook/index.php/Home/person/MyFavourite/account/888
+ERR: 非法操作:MyFavourite
+
+[ 2016-11-07T21:17:05+08:00 ] 192.168.1.16 /jobBook/index.php/Home/person/MyFavourite/account/888
+ERR: 非法操作:MyFavourite
+
+[ 2016-11-07T21:36:52+08:00 ] 192.168.1.16 /jobBook/index.php/Home/job/getDetail/job_id/5/account/888
+ERR: 1146:Table 'jobbook.favour' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `favour`
+
+[ 2016-11-07T21:36:57+08:00 ] 192.168.1.16 /jobBook/index.php/Home/job/getDetail/job_id/6/account/888
+ERR: 1146:Table 'jobbook.favour' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `favour`
+
